@@ -7,7 +7,10 @@ public class Main {
 
 
 
-        156123165445
+        155445
         System.out.println("HelloWorld!");
+        System.out.println("1");
+        System.out.println("H2lloWorld!");
+        System.out.println("He3loWorld!");
     }
 }
